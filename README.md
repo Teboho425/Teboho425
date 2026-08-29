@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Tebza&fontSize=40)
 <!--
 **Teboho425/Teboho425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
