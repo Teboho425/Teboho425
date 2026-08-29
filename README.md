@@ -1,20 +1,21 @@
-## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Teboho&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Tebza&fontSize=40)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CS+Student;Building+cool+stuff;Learning+Data+Structures+%26+Algorithms" />
+
+### 🛠️ Tech I use
+<img src="https://skillicons.dev/icons?i=java,python,cpp,git,vscode,linux" />
+
+### 📊 GitHub Stats
 ![Tebza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teboho425&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teboho425&layout=compact&theme=radical)
-<img src="https://skillicons.dev/icons?i=java,python,git,vscode" />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TebohoMokoena)
-<!--
-**Teboho425/Teboho425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Teboho425&theme=radical)
 
-Here are some ideas to get you started:
+### 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Teboho425&theme=radical&row=1&column=6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Custom Generic ArrayList](https://github.com/Teboho425/YOUR-REPO-NAME) | A generic ArrayList implementation from scratch in Java, supporting add, remove, and bubble sort, built while practicing Java generics | Java |
+
+![Profile views](https://komarev.com/ghpvc/?username=Teboho425&color=blueviolet)
