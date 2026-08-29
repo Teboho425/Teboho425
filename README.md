@@ -1,5 +1,9 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Tebza&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Teboho&fontSize=40)
+![Tebza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teboho425&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teboho425&layout=compact&theme=radical)
+<img src="https://skillicons.dev/icons?i=java,python,git,vscode" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TebohoMokoena)
 <!--
 **Teboho425/Teboho425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
