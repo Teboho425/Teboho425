@@ -2,18 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CS+Student;Building+cool+stuff;Learning+Data+Structures+%26+Algorithms" />
 
-### 🛠️ Tech I use
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp,git,vscode,linux" />
 
-### 📊 GitHub Stats
-![Tebza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teboho425&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teboho425&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Teboho425&theme=radical)
 
-### 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Teboho425&theme=radical&row=1&column=6)
-
-### 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
 | [Custom Generic ArrayList](https://github.com/Teboho425/YOUR-REPO-NAME) | A generic ArrayList implementation from scratch in Java, supporting add, remove, and bubble sort, built while practicing Java generics | Java |
