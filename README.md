@@ -13,6 +13,6 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [Custom Generic ArrayList](https://github.com/Teboho425/YOUR-REPO-NAME) | A generic ArrayList implementation from scratch in Java, supporting add, remove, and bubble sort, built while practicing Java generics | Java |
+| [Custom Generic ArrayList](https://github.com/Teboho425/custom-generic-arraylist) | A generic ArrayList implementation from scratch in Java, supporting add, remove, and bubble sort, built while practicing Java generics | Java |
 
 ![Profile views](https://komarev.com/ghpvc/?username=Teboho425&color=blueviolet)
